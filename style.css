@@ -1,0 +1,55 @@
+
+.container {
+    margin-top: 50px;
+    width: 480px;
+    padding: 50px 50px 0 50px;
+    background-color: #f8f6f6;
+}
+
+.title {
+    text-align: center;
+    padding-bottom: 18px;
+}
+
+.img-logo {
+    width: 180px;
+    display: block;
+    margin: 0 auto;
+}
+
+.form-control {
+    width: 350px;
+    padding: 25px 10px;
+    margin: 0 auto;
+}
+
+.form-check-label {
+    font-size: 18px;
+}
+
+.btn {
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+    padding: 12px 0;
+    font-size: 24px;
+}
+
+.check-box {
+    margin-top: 8px;
+}
+
+#exampleInputEmail1 {
+    border-radius: 0.25rem 0.25rem 0 0;
+}
+
+#exampleInputPassword1 {
+    border-radius: 0 0 0.25rem 0.25rem;
+}
+
+.text-muted {
+    margin-top: 40px;
+    padding-bottom: 10px;
+    display: block;
+    text-align: center;
+}
